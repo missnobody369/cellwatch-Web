@@ -1,0 +1,22 @@
+{
+  "name": "cellwatch",
+  "version": "1.0.0",
+  "description": "Commercial website for cellwatch",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missnobody369/cellwatch-Web.git"
+  },
+  "author": "MRCMalubay cr: J.Schmedtmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missnobody369/cellwatch-Web/issues"
+  },
+  "homepage": "https://github.com/missnobody369/cellwatch-Web#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
